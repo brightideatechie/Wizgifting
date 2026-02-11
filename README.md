@@ -1,2 +1,2 @@
 # Wizgifting
-An AI powered s
+An AI powered automated gifting subscription service 
